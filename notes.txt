@@ -1,0 +1,4 @@
+//DATA ASSOCIATION:
+ek model se doosre model ke data ko zor dena id ke through,
+matlab ki agar aap ke paas ek user hai to woh post banayega hi, jab post banega toh wo user ke dwara
+hi banega toh hum kya karte hai jab do aise data aapas mein closely related hote hai toh hum dono ko jod dete hai, ki ek model ke bane huye data ki id ko doose model ke data ko dedete hai aur iss model ke data ki id pichle model ke data ko dedete hai.
